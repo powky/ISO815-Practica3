@@ -1,0 +1,49 @@
+[{
+  "college": "unapec",
+  "name": "Ian Fernandez",
+  "nationalId": "40226642821",
+  "career": "iso",
+  "amount": 45630.56,
+  "paid": true,
+  "credits": 23
+},{
+  "college": "unapec",
+  "name": "Lore Torres",
+  "nationalId": "40226642821",
+  "career": "iso",
+  "amount": 12894.90,
+  "paid": false,
+  "credits": 21
+},{
+  "college": "unapec",
+  "name": "Fupre Pelaez",
+  "nationalId": "40226642821",
+  "career": "nin",
+  "amount": 60630.56,
+  "paid": true,
+  "credits": 27
+},{
+  "college": "unapec",
+  "name": "Roxanna Albur",
+  "nationalId": "40226642821",
+  "career": "iso",
+  "amount": 12894.90,
+  "paid": true,
+  "credits": 12
+},{
+  "college": "unapec",
+  "name": "Jose Vasquez",
+  "nationalId": "40226642821",
+  "career": "iso",
+  "amount": 34759.12,
+  "paid": false,
+  "credits": 21
+},{
+  "college": "unapec",
+  "name": "Jose Terrero",
+  "nationalId": "40226642821",
+  "career": "pub",
+  "amount": 34759.12,
+  "paid": true,
+  "credits": 18
+}]

@@ -1,0 +1,42 @@
+{
+    "students": [
+        {
+            "name": "Ian Fernandez",
+            "id": "40226642821",
+            "career": "iso",
+            "amount": 45630.56,
+            "date": "2023-05-31",
+            "credits": 23,
+            "term": "202302"
+        },
+        {
+            "name": "Fupre Pelaez",
+            "id": "40226642821",
+            "career": "nin",
+            "amount": 60630.56,
+            "date": "2023-05-31",
+            "credits": 27,
+            "term": "202302"
+        },
+        {
+            "name": "Roxanna Albur",
+            "id": "40226642821",
+            "career": "iso",
+            "amount": 12894.9,
+            "date": "2023-05-31",
+            "credits": 12,
+            "term": "202302"
+        },
+        {
+            "name": "Jose Terrero",
+            "id": "40226642821",
+            "career": "pub",
+            "amount": 34759.12,
+            "date": "2023-05-31",
+            "credits": 18,
+            "term": "202302"
+        }
+    ],
+    "totalAmount": 153915.14,
+    "referenceNumber": "473631339"
+}
